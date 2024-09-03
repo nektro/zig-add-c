@@ -1,5 +1,6 @@
 id: p4m4ap2y4cfz5wym8g3evdrl8dwilpk8u40iw05hms694krv
 name: add
+main: src/add.zig
 license: MPL-2.0
 c_include_dirs:
   - include
