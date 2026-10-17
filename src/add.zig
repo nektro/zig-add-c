@@ -1,3 +1,1 @@
-pub const c = @cImport({
-    @cInclude("add.h");
-});
+pub const c = @import("c");
